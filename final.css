@@ -1,0 +1,94 @@
+#bgheader {
+  margin:-5px;
+  background-image: url(http://tse4.mm.bing.net/th?id=OIP.Mc925302c3172b868e49dd61592ea4a47H0&pid=15.1);
+  background-repeat:none;
+
+  width:100px 100px 100px 100px;
+  
+}
+
+body {
+  width:100%;
+  color:white;
+  background-image: url(http://www.thebikeoutlet.com/BlackBackgroundFadeEdge.jpg);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-family: arial;
+  padding:20px 100px 20px 100px;
+}
+
+#thevid {
+  color: gray;
+  transition:color 2s;
+}
+#thevid {
+  color
+}
+#theandstore {
+  
+  transition: text-color 2s, color 2s;
+}
+#theandstore a:hover{
+  color: gray;
+}
+#slogan {
+  text-decoration:italic;
+  color:#999;
+  text-decoration: underline;
+}
+h1 {
+  font-family: verdana black;
+  padding: 20px 100px 20px 100px;
+  font-size: 60px;
+  color: #1AC90B;
+}
+
+h2 {
+  font-family: arial black;
+  padding-top:10px;
+}
+#hours {
+  border-style:outset;
+  border-color:white;
+  display:block;
+}
+
+h3 {
+  display:inline;
+  border-style:inset;
+  border-color:#1AC90B;
+  color:#999;
+  text-decoration:underline
+}
+
+#nav {
+    padding:10px 100px 10px 100px;
+    background-color:gray;
+    margin:0px;
+    font-family:Arial;
+}
+#nav li{
+  display:inline;
+  color:white;
+  background-color:#444;
+  font-family: Arial;
+  font-size:20px;
+  padding:10px;
+
+}
+#nav a:hover{
+  display:inline;
+  color:green;
+  background:;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+
+}
+#socialmedia {
+
+}
